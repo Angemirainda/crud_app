@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "nom": "client 1",
+      "adresse": "adresse 1",
+      "tel": "123456789"
+    },
+    {
+      "id": "2",
+      "nom": "client 2",
+      "adresse": "adresse 2",
+      "tel": "987654321"
+    },
+    {
+      "id": "3",
+      "nom": "client 3",
+      "adresse": "adresse 3",
+      "tel": "456789123"
+    },
+    {
+      "id": "5b86",
+      "nom": "Ange",
+      "adresse": "Bepanda",
+      "tel": "1235689"
+    }
+  ]
+}

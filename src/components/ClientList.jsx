@@ -67,7 +67,7 @@ return (
         {/* Bouton "Ajouter" centré */}
         <div className="text-center mb-6 font-semibold">
             <Link
-                to="clients/create"
+                to="/create"
                 className="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 transition duration-300 ease-in-out transform hover:scale-105"
             >
                 Ajouter un Client

@@ -14,7 +14,7 @@ import './App.css'
   return(
     <Router>
       <Routes>
-        <Route path="/" element={<ClientList/>} />
+        <Route path="/clients" element={<ClientList/>} />
         <Route path="/clients/create" element={<CreateClient/>} />
         <Route path="/clients/:id" element={<ClientsDetails/>} />
         <Route path="/clients/:id/update" element={<UpdateClient/>} />
